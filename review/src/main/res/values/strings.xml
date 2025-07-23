@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_review">Change review</string>
+    <string name="describe_your_experience">Describe your experience</string>
+    <string name="description_too_long">Description too long</string>
+    <string name="description_too_short">Description too short</string>
+    <string name="how_many_stars_would_you_give">How many stars would you give?</string>
+    <string name="item_to_review">Item to review</string>
+    <string name="next">Next</string>
+    <string name="please_rate_the_product">Please rate the product</string>
+    <string name="start_review">Start review</string>
+    <string name="submit">Submit</string>
+    <string name="this_is_what_your_review_looks_like">This is what your review looks like</string>
+</resources>
